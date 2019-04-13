@@ -1,0 +1,5 @@
+Env,user,pass,web,alt,rbs,bny
+WEB,cmrswebafsstrg,iS/NGpkX4r7/hzsVjIUmE8til8T+jQhqrfYx667bZOBQzG+buWpVOxRgTc6MkoxnXWcVkhynuilPRdErULMPIg==,webaug,octbackup,,
+Alt,cmrsaltpafs,bVrxJFCD2/D/0EkBGrDYBuxxhGym+3fxQbpayHjaTm0L4Je6SkEAprzSNmTQPW8tNvHRKfRedw7+xfaW2CnlXg==,weboct,augbackup,,
+rbs,cmrsrbsprodcold,HHXYxdVDSYpQ3rJuUgybncHuthIn//5JnpnSxTKpdVlXkWNz/6lcXFnQv+oo7Fr0oQEDdA3fYEeix2E8XG0l4g==,websep,sepbackup,tnt-full-backup-1,
+bny,,,,,,
